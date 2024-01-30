@@ -12,7 +12,7 @@ Diseño Responsivo: La aplicación está diseñada con Bootstrap, lo que garanti
 ## 3. Despliegue
 
 La aplicación está desplegada y disponible en: 
-https://helloworld01.netlify.app/
+https://helloworld-01.netlify.app/
 
 ## 4. Tecnologías Utilizadas
 React: Desarrollo de la interfaz de usuario modular y reactiva.
