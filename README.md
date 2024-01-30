@@ -23,7 +23,7 @@ JavaScript: Programación del comportamiento dinámico de la aplicación.
 
 ## 5. Instalación y Uso
 Clona el repositorio: git clone https://github.com/carolinavalverde/ReactEj01
-Navega al directorio del proyecto: cd color-palette-app
+Navega al directorio del proyecto: cd ReactEj01
 Instala las dependencias: npm install
 Inicia la aplicación: npm start
 La aplicación estará disponible en http://localhost:3000 en tu navegador.
