@@ -1,8 +1,10 @@
 const HelloWorld = () => {
   return (
-    <div className="container-fluid text-bg-dark text-center p-2">
-      <h1>Hello World</h1>
-    </div>
+    <section className="container">
+      <div className="card rounded p-5 text-bg-dark text-center m-3">
+        <h1 className="display-1 fw-bold">Hello World</h1>
+      </div>
+    </section>
   );
 };
 
